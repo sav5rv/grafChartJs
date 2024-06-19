@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=OnmaeSnIEek&ab_channel=devAnalytics
+
+https://jsonplaceholder.typicode.com/     testar consulta AJAX
+
+https://wordpress.mediadoma.com/pt-pt/otimos-exemplos-de-chart-js-que-voce-pode-usar-em-seu-site/
+
+https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/
+
+https://gist.github.com/msdzero/d663077bf3fa9d35d133b5dc49942373
